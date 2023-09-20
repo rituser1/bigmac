@@ -1,1 +1,1 @@
-//window.alert("Hello js World!");
+window.alert("Hello js World!");
